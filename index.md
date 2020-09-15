@@ -20,13 +20,13 @@ The purpose of Milestone 2 is to improve upon features made in Milestone 1. Main
 # Page Mockups
 
 ### Profiles Page
-
+<img src='/img/profile_mockup.png'>
 ### Projects Page
-
+<img src='/img/projects_mockup.png'>
 ### Interests Page
-
+<img src='/img/interests_mockup.png'>
 ### Drawer Navigation
-
+<img src='/img/nav_mockup.png'>
 # Team Members
 * [Trey Sumida](https://github.com/trey-sumida)
 * [Ken Tung](https://github.com/ken-10)
