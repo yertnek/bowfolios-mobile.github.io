@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Bowfolios Mobile
 
-You can use the [editor on GitHub](https://github.com/yertnek/bowfolios-mobile.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Table of Contents
+* Overview
+* Project Milestones
+* Team Members
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Overview
+Bowfolios Mobile is an mobile app of the original Bowfolios web application. Users have the ability to create a profile, add interests, and profiles. It provides the ability to view and modify profiles, projects, and interests. It is a quick way to find other UH Manoa students with the same interests and view their previous and current projects. 
 
-### Markdown
+For Milestone 1, we created the user interface for the login, create account, profiles, interests, projects, and set up firebase for backend data storage and user authentication.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yertnek/bowfolios-mobile.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
