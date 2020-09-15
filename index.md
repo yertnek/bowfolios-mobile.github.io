@@ -60,7 +60,7 @@ Next change directories into the projects folder.
 
 Make sure you have a virtual device running, and start the application by running the following command:
 ```
-$flutter run
+$ flutter run
 ```
 The application will take a little while to start up, but once it does you should land on a login page and you are all set to use the app!
 
