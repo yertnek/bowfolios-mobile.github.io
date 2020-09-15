@@ -46,6 +46,13 @@ The interests page shows a list of the interests and the users and projects asso
 The drawer navigation is used to redirect back home, the users profile page, the add project page, and the search page.
 <img src='./doc/nav_mockup.png'>
 
+<a name="devguide"></a>
+# Developer Guide
+This section provides information on how to get the application to run on a developers local machine.
+
+## Installation
+First, 
+
 <a name="members"></a>
 # Team Members
 * [Trey Sumida](https://github.com/trey-sumida)
