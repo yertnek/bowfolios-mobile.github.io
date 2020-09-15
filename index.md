@@ -30,7 +30,8 @@ The purpose of Milestone 2 is to improve upon features made in Milestone 1. Main
 # User Guide
 
 ### Profiles Page
-The profiles page is presented to users when they first open the app. The profile page shows a list of users and the projects and interests associated with each specific user.
+The profiles page is presented to users when they first open the app. The profile page shows a list of users and the projects 
+and interests associated with each specific user.
 <img src='./doc/profile_mockup.png'>
 
 ### Projects Page
