@@ -10,6 +10,10 @@ For Milestone 1, we created the user interface for the login, create account, pr
 
 For Milestone 2, we plan to implement backend features to the profiles, interests, projects page, and implement a logout feature. We also want to route the widgets in the drawer navigation.
 
+### Project Links
+* [GitHub Project Board](https://github.com/yertnek/bowfolios/milestones)
+* [GitHub Source Code](https://github.com/yertnek/bowfolios)
+
 # Project Milestones
 ### [Milestone 1](https://github.com/yertnek/bowfolios/milestone/1)
 The purpose of Milestone 1 is to have a partially working version of BowFolios.
