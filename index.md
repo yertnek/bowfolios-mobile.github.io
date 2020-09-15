@@ -1,7 +1,7 @@
 # Table of Contents
 * [Overview](#overview)
-* [Project Milestones](#milestones)
 * [Project Links](#links)
+* [Project Milestones](#milestones)
 * [Team Members](#members)
 
 <a name="overview"></a>
