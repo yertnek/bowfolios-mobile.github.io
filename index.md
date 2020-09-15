@@ -3,6 +3,7 @@
 * [Project Links](#links)
 * [Project Milestones](#milestones)
 * [User Guide](#guide)
+* [Developer Guide](#devguide)
 * [Team Members](#members)
 
 <a name="overview"></a>
