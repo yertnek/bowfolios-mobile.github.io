@@ -26,13 +26,13 @@ The purpose of Milestone 2 is to improve upon features made in Milestone 1. Main
 <img src='./doc/profile_mockup.png'>
 
 ### Projects Page
-<img src='/doc/projects_mockup.png'>
+<img src='./doc/projects_mockup.png'>
 
 ### Interests Page
-<img src='/doc/interests_mockup.png'>
+<img src='./doc/interests_mockup.png'>
 
 ### Drawer Navigation
-<img src='/doc/nav_mockup.png'>
+<img src='./doc/nav_mockup.png'>
 
 # Team Members
 * [Trey Sumida](https://github.com/trey-sumida)
