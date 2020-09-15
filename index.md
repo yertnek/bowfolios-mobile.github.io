@@ -50,8 +50,8 @@ The drawer navigation is used to redirect back home, the users profile page, the
 # Developer Guide
 This section provides information on how to get the application to run on a developers local machine.
 
-## Installation
-First, 
+### Installation
+First, follow the steps [here](https://flutter.dev/docs/get-started/install) to get flutter set up.
 
 <a name="members"></a>
 # Team Members
