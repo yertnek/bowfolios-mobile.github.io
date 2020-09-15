@@ -1,5 +1,3 @@
-## BowFolios Mobile
-
 # Table of Contents
 * Overview
 * Project Milestones
@@ -20,9 +18,6 @@ The purpose of Milestone 1 is to have a partially working version of BowFolios.
 The purpose of Milestone 2 is to improve upon features made in Milestone 1. Main goal is to implement backend functionality in current pages and a logout feature.
 
 # Page Mockups
-### Login Page
-
-### Sign up Page
 
 ### Profiles Page
 
