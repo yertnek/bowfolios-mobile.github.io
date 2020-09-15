@@ -23,7 +23,7 @@ The purpose of Milestone 2 is to improve upon features made in Milestone 1. Main
 
 # Page Mockups
 ### Profiles Page
-<img src='/doc/profile_mockup.png'>
+<img src='bowfolios.github.io/doc/profile_mockup.png'>
 
 ### Projects Page
 <img src='/doc/projects_mockup.png'>
