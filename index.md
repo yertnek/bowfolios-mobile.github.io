@@ -40,7 +40,7 @@ The projects page shows a list of the projects and the users and interests assoc
 <img src='./doc/projects_mockup.png'>
 
 ### Interests Page
-The interests page shows a list of the interests and the users and projects associated with each specific interest.
+The interests page shows a list of the interests.
 <img src='./doc/interests_mockup.png'>
 
 ### Drawer Navigation
@@ -53,6 +53,16 @@ This section provides information on how to get the application to run on a deve
 
 ### Installation
 First, follow the steps [here](https://flutter.dev/docs/get-started/install) to get flutter set up.
+
+Once flutter is installed, clone the [repo](https://github.com/yertnek/bowfolios).
+
+Next change directories into the projects folder.
+
+Make sure you have a virtual device running, and start the application by running the following command:
+```
+$flutter run
+```
+The application will take a little while to start up, but once it does you should land on a login page and you are all set to use the app!
 
 <a name="members"></a>
 # Team Members
