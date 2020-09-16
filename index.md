@@ -74,7 +74,10 @@ Install a virtual mobile device from here:
 
 Once flutter is installed, clone the [repo](https://github.com/yertnek/bowfolios).
 
-Next change directories into the projects folder.
+Next change directories into the projects folder and run the command:
+```
+$ flutter pub get
+```
 
 Make sure you have a virtual device running, and start the application by running the following command:
 ```
