@@ -30,21 +30,29 @@ The purpose of Milestone 2 is to improve upon features made in Milestone 1. Main
 <a name="guide"></a>
 # User Guide
 
+### Login Page
+
+### Sign Up Page
+
 ### Profiles Page
 The profiles page is presented to users when they first open the app. The profile page shows a list of users and the projects 
 and interests associated with each specific user.
+
 <img src='./doc/profile_mockup.png'>
 
 ### Projects Page
 The projects page shows a list of the projects and the users and interests associated with each specific project.
+
 <img src='./doc/projects_mockup.png'>
 
 ### Interests Page
 The interests page shows a list of the interests.
+
 <img src='./doc/interests_mockup.png'>
 
 ### Drawer Navigation
 The drawer navigation is used to redirect back home, the users profile page, the add project page, and the search page.
+
 <img src='./doc/nav_mockup.png'>
 
 <a name="devguide"></a>
