@@ -31,11 +31,17 @@ The purpose of Milestone 2 is to improve upon features made in Milestone 1. Main
 # User Guide
 
 ### Login Page
+The login page is presented to first time users or logged out users when they open the app. They have the option to login with valid credentials or redirect to the sign up page.
+
+<img src='./doc/login_mockup.png'>
 
 ### Sign Up Page
+The sign up page is for first time users who do not have an account. They can create an account by providing a valid email, username, and creating a new password.
+
+<img src='./doc/signup_mockup.png'>
 
 ### Profiles Page
-The profiles page is presented to users when they first open the app. The profile page shows a list of users and the projects 
+The profiles page is presented to returning users when they first open the app. The profile page shows a list of users and the projects 
 and interests associated with each specific user.
 
 <img src='./doc/profile_mockup.png'>
