@@ -10,9 +10,9 @@
 # Overview
 BowFolios Mobile is an mobile app of the original BowFolios web application. Users have the ability to create a profile, add interests, and profiles. It provides the ability to view and modify profiles, projects, and interests. It is a quick way to find other UH Manoa students with the same interests and view their previous and current projects. 
 
-For Milestone 1, we created the user interface for the login, create account, profiles, interests, projects, drawer navigation, and set up firebase for backend data storage and user authentication. Users can currently login, but not logout.
+For Milestone 1, we created the user interface for the login, create account, profiles, interests, projects, drawer navigation, and set up firebase for backend data storage and user authentication.
 
-For Milestone 2, we plan to implement backend features to the profiles, interests, projects page, and implement a logout feature. We also want to route the widgets in the drawer navigation.
+For Milestone 2, we plan to implement backend features to the profiles, interests, and projects page. We also want to route the widgets in the drawer navigation.
 
 <a name="links"></a>
 ### Project Links
@@ -25,7 +25,7 @@ For Milestone 2, we plan to implement backend features to the profiles, interest
 The purpose of Milestone 1 is to have a partially working version of BowFolios.
 
 ### Milestone 2 (In Progress)
-The purpose of Milestone 2 is to improve upon features made in Milestone 1. Main goal is to implement backend functionality in current pages and a logout feature.
+The purpose of Milestone 2 is to improve upon features made in Milestone 1. Main goal is to implement backend functionality.
 
 <a name="guide"></a>
 # User Guide
@@ -67,6 +67,10 @@ This section provides information on how to get the application to run on a deve
 
 ### Installation
 First, follow the steps [here](https://flutter.dev/docs/get-started/install) to get flutter set up.
+
+Install a virtual mobile device from here:
+* [Android Studios](https://developer.android.com/studio)
+* [iOS Emulator] (Mac Only) You must download and install XCode from the App store.
 
 Once flutter is installed, clone the [repo](https://github.com/yertnek/bowfolios).
 
