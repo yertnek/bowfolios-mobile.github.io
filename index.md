@@ -70,7 +70,7 @@ First, follow the steps [here](https://flutter.dev/docs/get-started/install) to 
 
 Install a virtual mobile device from here:
 * [Android Studios](https://developer.android.com/studio)
-* [iOS Emulator] (Mac Only) You must download and install XCode from the App store.
+* iOS Emulator (Mac Only) You must download and install XCode from the App store.
 
 Once flutter is installed, clone the [repo](https://github.com/yertnek/bowfolios).
 
