@@ -54,7 +54,7 @@ The projects page shows a list of the projects and the users and interests assoc
 ### Interests Page
 The interests page shows a list of the interests.
 
-<img src='./doc/interests.png'>
+<img src='./doc/interests.PNG'>
 
 ### Drawer Navigation
 The drawer navigation is used to redirect back home, the users profile page, the add project page, and the search page.
