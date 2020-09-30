@@ -61,6 +61,11 @@ The drawer navigation is used to redirect back home, the users profile page, the
 
 <img src='./doc/nav_mockup.png'>
 
+### User Profile Page
+The user profile page allows users to edit their credentials and change their profile picture.
+
+<img src='./doc/user_profile_mockup.png'>
+
 ### Add Project
 The add project page allows users to add a project to the Bowfolios application.
 
