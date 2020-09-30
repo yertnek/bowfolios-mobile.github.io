@@ -24,7 +24,7 @@ For Milestone 2, we plan to implement backend features to the profiles, interest
 ### [Milestone 1](https://github.com/yertnek/bowfolios/milestone/1)
 The purpose of Milestone 1 is to have a partially working version of BowFolios.
 
-### [Milestone 2] (https://github.com/yertnek/bowfolios/milestone/2)
+### [Milestone 2](https://github.com/yertnek/bowfolios/milestone/2)
 The purpose of Milestone 2 is to improve upon features made in Milestone 1. Main goal is to implement backend functionality.
 
 <a name="guide"></a>
