@@ -61,6 +61,11 @@ The drawer navigation is used to redirect back home, the users profile page, the
 
 <img src='./doc/nav_mockup.png'>
 
+### Add Project
+The add project page allows users to add a project to the Bowfolios application.
+
+<img src='./doc/add_project.PNG'>
+
 <a name="devguide"></a>
 # Developer Guide
 This section provides information on how to get the application to run on a developers local machine.
