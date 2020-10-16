@@ -14,6 +14,8 @@ For Milestone 1, we created the user interface for the login, create account, pr
 
 For Milestone 2, we plan to implement backend features to the profiles, interests, and projects page. We also want to route the widgets in the drawer navigation.
 
+For Milestone 3, we plan to implement a search page that filters profiles by interests, user profiles page, show profile cards on profiles page, show profiles and projects based on chosen interest on the interests page, and show project cards on projects page.
+
 <a name="links"></a>
 ### Project Links
 * [GitHub Project Board](https://github.com/yertnek/bowfolios/milestones)
