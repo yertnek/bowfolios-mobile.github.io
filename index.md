@@ -27,6 +27,9 @@ The purpose of Milestone 1 is to have a partially working version of BowFolios.
 ### [Milestone 2](https://github.com/yertnek/bowfolios/milestone/2)
 The purpose of Milestone 2 is to improve upon features made in Milestone 1. Main goal is to implement backend functionality.
 
+### [Milestone 3](https://github.com/yertnek/bowfolios/milestone/3)
+The purpose of Milestone 3 is to implement final features and fix bugs. Main goals are to implement a proper working profiles, projects, interests, and search page.
+
 <a name="guide"></a>
 # User Guide
 
@@ -71,7 +74,11 @@ The add project page allows users to add a project to the Bowfolios application.
 
 <img src='./doc/add_project.PNG'>
 
+### Search Page
+The search page filters profiles by interests.
+
 <a name="devguide"></a>
+
 # Developer Guide
 This section provides information on how to get the application to run on a developers local machine.
 
