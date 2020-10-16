@@ -77,6 +77,8 @@ The add project page allows users to add a project to the Bowfolios application.
 ### Search Page
 The search page filters profiles by interests.
 
+<img src='./doc/search_page.png>
+
 <a name="devguide"></a>
 
 # Developer Guide
